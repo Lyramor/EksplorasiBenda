@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 91789aaaed04cf74ca4c0e7077f7544b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3680428683425168170
+    second: JudulMainMenu 1_0
+  - first:
+      213: 697163948255605452
+    second: JudulMainMenu 1_1
+  - first:
+      213: 5682473800072951016
+    second: JudulMainMenu 1_2
+  - first:
+      213: 4939107780755207094
+    second: JudulMainMenu 1_3
+  - first:
+      213: 4184808646771572868
+    second: JudulMainMenu 1_4
+  - first:
+      213: 501909030090365551
+    second: JudulMainMenu 1_5
+  - first:
+      213: -378672102655044800
+    second: JudulMainMenu 1_6
+  - first:
+      213: -7105642020827029463
+    second: JudulMainMenu 1_7
+  - first:
+      213: 8432357142680847664
+    second: JudulMainMenu 1_8
+  - first:
+      213: 8981346792172365297
+    second: JudulMainMenu 1_9
+  - first:
+      213: 5464931524150489847
+    second: JudulMainMenu 1_10
+  - first:
+      213: 5687094461464784521
+    second: JudulMainMenu 1_11
+  - first:
+      213: -6423637131603659602
+    second: JudulMainMenu 1_12
+  - first:
+      213: 9034538313256490946
+    second: JudulMainMenu 1_13
+  - first:
+      213: -1629539579777307827
+    second: JudulMainMenu 1_14
+  - first:
+      213: 6977645557601419963
+    second: JudulMainMenu 1_15
+  - first:
+      213: 7410904033361739561
+    second: JudulMainMenu 1_16
+  - first:
+      213: -1338489260670115271
+    second: JudulMainMenu 1_17
+  - first:
+      213: 848225368032289514
+    second: JudulMainMenu 1_18
+  - first:
+      213: -8743311295826806907
+    second: JudulMainMenu 1_19
+  - first:
+      213: -8708294170202562362
+    second: JudulMainMenu 1_20
+  - first:
+      213: -1887814079689674880
+    second: JudulMainMenu 1_21
+  - first:
+      213: 796371315343792928
+    second: JudulMainMenu 1_22
+  - first:
+      213: 8919979205223098084
+    second: JudulMainMenu 1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JudulMainMenu 1_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 441
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b37b84362831330800000000000000
+      internalID: 3680428683425168170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 444
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2fbfdcae2dca900800000000000000
+      internalID: 697163948255605452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 445
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4ffca60d33cde40800000000000000
+      internalID: 5682473800072951016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 441
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3384bab5c3b8440800000000000000
+      internalID: 4939107780755207094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 437
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4808dcbca4d631a30800000000000000
+      internalID: 4184808646771572868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 426
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad8188a9327f600800000000000000
+      internalID: 501909030090365551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 432
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04355ea9abfaebaf0800000000000000
+      internalID: -378672102655044800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 372
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9202487ba30b36d90800000000000000
+      internalID: -7105642020827029463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 427
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03548bc0520c50570800000000000000
+      internalID: 8432357142680847664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 416
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f52700825724ac70800000000000000
+      internalID: 8981346792172365297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 419
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f2da444657db40800000000000000
+      internalID: 5464931524150489847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 404
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e23bbf74e9cee40800000000000000
+      internalID: 5687094461464784521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 409
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea431cc0018aad6a0800000000000000
+      internalID: -6423637131603659602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 386
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c75f479ab0216d70800000000000000
+      internalID: 9034538313256490946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 398
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2fe7c266b269e0800000000000000
+      internalID: -1629539579777307827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 391
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb24a6d5aa395d060800000000000000
+      internalID: 6977645557601419963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 394
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f390524f1d8d660800000000000000
+      internalID: 7410904033361739561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 147
+        width: 973
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932251aeb1bbc6de0800000000000000
+      internalID: -1338489260670115271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 381
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae22a076a7085cb00800000000000000
+      internalID: 848225368032289514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 309
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587359353b489a680800000000000000
+      internalID: -8743311295826806907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 330
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a879379ce52780800000000000000
+      internalID: -8708294170202562362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 277
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fad1ab8132dc5e0800000000000000
+      internalID: -1887814079689674880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b9060fd774d0b00800000000000000
+      internalID: 796371315343792928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JudulMainMenu 1_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 89
+        width: 533
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a13bb3d12acb70800000000000000
+      internalID: 8919979205223098084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JudulMainMenu 1_0: 3680428683425168170
+      JudulMainMenu 1_1: 697163948255605452
+      JudulMainMenu 1_10: 5464931524150489847
+      JudulMainMenu 1_11: 5687094461464784521
+      JudulMainMenu 1_12: -6423637131603659602
+      JudulMainMenu 1_13: 9034538313256490946
+      JudulMainMenu 1_14: -1629539579777307827
+      JudulMainMenu 1_15: 6977645557601419963
+      JudulMainMenu 1_16: 7410904033361739561
+      JudulMainMenu 1_17: -1338489260670115271
+      JudulMainMenu 1_18: 848225368032289514
+      JudulMainMenu 1_19: -8743311295826806907
+      JudulMainMenu 1_2: 5682473800072951016
+      JudulMainMenu 1_20: -8708294170202562362
+      JudulMainMenu 1_21: -1887814079689674880
+      JudulMainMenu 1_22: 796371315343792928
+      JudulMainMenu 1_23: 8919979205223098084
+      JudulMainMenu 1_3: 4939107780755207094
+      JudulMainMenu 1_4: 4184808646771572868
+      JudulMainMenu 1_5: 501909030090365551
+      JudulMainMenu 1_6: -378672102655044800
+      JudulMainMenu 1_7: -7105642020827029463
+      JudulMainMenu 1_8: 8432357142680847664
+      JudulMainMenu 1_9: 8981346792172365297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
